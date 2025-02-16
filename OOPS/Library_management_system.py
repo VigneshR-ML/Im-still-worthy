@@ -1,6 +1,10 @@
 class Book():
     uid  = 0
-    def __init__(self,bname,bauthor,avail):
+    def __init__(self,bname:str,bauthor:str,avail:int):
+        assert bname.isalpha, f"Enter valid bname: {bname}"
+        assert bauthor.isalpha, f"Enter valid bname: {bauthor}"
+        assert avail.is_integer, f"Enter valid bname: {avail}"
+
         self.bname = bname
         self.bauthor = bauthor
         self.avail = avail
