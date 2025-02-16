@@ -1,4 +1,4 @@
-### 🚀 About Me  
+### 🚀 About Repo 
 
 - Exploring AI, backend dev, and system design one step at a time.
 - Learning 0.1% every day—small steps, big growth.  
