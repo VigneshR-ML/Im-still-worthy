@@ -6,4 +6,3 @@ from Bank import Bank
 c1 = CreateAccount()
 c2 = CreateAccount()
 
-print(Bank.accounts)

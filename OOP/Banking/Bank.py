@@ -4,3 +4,4 @@ class Bank:
     def __repr__(self):
         return str(Bank.accounts) 
     
+print(Bank.accounts)
