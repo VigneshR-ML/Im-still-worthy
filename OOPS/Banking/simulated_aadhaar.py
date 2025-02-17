@@ -1,0 +1,22 @@
+aadhar_data = {
+    "260448549440": {"name": "Arun Kumar", "age": 27, "gender": "Male", "DOB": "1997-05-12"},
+    "813847470712": {"name": "Priya Dharshini", "age": 25, "gender": "Female", "DOB": "1999-08-23"},
+    "172097861836": {"name": "Vignesh", "age": 26, "gender": "Male", "DOB": "1994-02-11"},
+    "426613741751": {"name": "Divya Lakshmi", "age": 28, "gender": "Female", "DOB": "1996-09-15"},
+    "334343156047": {"name": "Saravanan", "age": 35, "gender": "Male", "DOB": "1989-07-29"},
+    "511584028792": {"name": "Meena Rani", "age": 40, "gender": "Female", "DOB": "1984-12-02"},
+    "295716911537": {"name": "Karthikeyan", "age": 22, "gender": "Male", "DOB": "2002-06-18"},
+    "630711527317": {"name": "Aishwarya", "age": 24, "gender": "Female", "DOB": "2000-11-30"},
+    "764223730063": {"name": "Bala Murugan", "age": 29, "gender": "Male", "DOB": "1995-04-09"},
+    "141331647897": {"name": "Sowmya", "age": 26, "gender": "Female", "DOB": "1998-03-21"},
+    "458213749369": {"name": "Dinesh Kumar", "age": 32, "gender": "Male", "DOB": "1992-01-14"},
+    "460187833281": {"name": "Keerthana", "age": 23, "gender": "Female", "DOB": "2001-07-25"},
+    "530304905529": {"name": "Rajesh", "age": 34, "gender": "Male", "DOB": "1990-10-05"},
+    "683255602966": {"name": "Lavanya", "age": 31, "gender": "Female", "DOB": "1993-08-17"},
+    "636441410220": {"name": "Muthu", "age": 45, "gender": "Male", "DOB": "1979-05-30"},
+    "622635469795": {"name": "Sandhya", "age": 37, "gender": "Female", "DOB": "1987-06-22"},
+    "622803780589": {"name": "Vasanth", "age": 28, "gender": "Male", "DOB": "1996-03-08"},
+    "547470211202": {"name": "Swathi", "age": 21, "gender": "Female", "DOB": "2003-12-15"},
+    "812263716176": {"name": "Gokul", "age": 33, "gender": "Male", "DOB": "1991-09-19"},
+    "965369850703": {"name": "Nithya", "age": 27, "gender": "Female", "DOB": "1997-04-01"}
+}
